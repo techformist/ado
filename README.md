@@ -1,28 +1,5 @@
-# Adonis API application
+# Sample Todo back-end application using Adonis API
 
-This is the boilerplate for creating an API server in AdonisJs, it comes pre-configured with.
+See the post on https://techformist.com/create-a-functional-backend-in-adonisjs-under-5-minutes/ to get started.
 
-1. Bodyparser
-2. Authentication
-3. CORS
-4. Lucid ORM
-5. Migrations and seeds
-
-## Setup
-
-Use the adonis command to install the blueprint
-
-```bash
-adonis new yardstick --api-only
-```
-
-or manually clone the repo and then run `npm install`.
-
-
-### Migrations
-
-Run the following command to run startup migrations.
-
-```js
-adonis migration:run
-```
+Ado is a AdonisJS 4.1 application that serves APIs for your beautiful front-end app.
